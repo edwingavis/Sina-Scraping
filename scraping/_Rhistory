@@ -1,2 +1,0 @@
-setwd("~/machine_learning/project/sina scraping")
-install.packages("chinese.misc")
